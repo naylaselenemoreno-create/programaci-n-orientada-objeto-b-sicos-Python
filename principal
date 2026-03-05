@@ -1,0 +1,24 @@
+
+def principal():
+    print("==============================================")
+    print("nayla selene")
+    print("programacion orientada a objetos ")
+    print ("===============================================")
+    perrito = perro("firulais",1,"chusco","negro")
+    print (prerrito,nombre)
+    print(perrito.edad)
+    print.comer()
+    perrito2 =perro("peque",6,"pequeñito","marron")
+    print(perrito2,nombre)
+    perrito2.comer()
+    perrito2.dormir()
+    perrito2,dormir()
+
+    gatito =gato("michi",3,"angora","blanxo".3)
+    gatito.maullar()
+    gatito.set_cantidad_patas(4)
+    gatito.mostrar_cantudad_patas()
+    
+principal()
+
+    
